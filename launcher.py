@@ -32,7 +32,7 @@ os.system('')
 
 
 music_list = ["https://www.songsterr.com/", "https://www.youtube.com/", "https://open.spotify.com/", "https://gemini.google.com/app?hl=ru"]
-programming_list = ["https://stepik.org/course/58852/syllabus", "https://www.codewars.com/", "https://monkeytype.com/", "https://open.spotify.com/", "https://gemini.google.com/app?hl=ru",]
+programming_list = ["https://leetcode.com/", "https://www.codewars.com/", "https://monkeytype.com/", "https://open.spotify.com/", "https://gemini.google.com/app?hl=ru",]
 
 #colors
 RESET = "\033[0m"
